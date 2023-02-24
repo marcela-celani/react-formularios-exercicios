@@ -8,22 +8,22 @@ function MainPage() {
       <h2>Cadastro de novo curso</h2>
 
       <Form onSubmit="">
-        <label for="nome">Nome do Curso:</label>
+        <label htmlFor="nome">Nome do Curso:</label>
         <Input 
           id="nome"
         />
 
-        <label for="modulos">Número de Módulos: </label>
+        <label htmlFor="modulos">Número de Módulos: </label>
         <Input 
           id="modulos"
         />
 
-        <label for="tecnologias">Tecnologias abordadas: </label>
+        <label htmlFor="tecnologias">Tecnologias abordadas: </label>
         <Input 
           id="tecnologias"
         />
         
-        <label for="responsavel">Responsável: </label>
+        <label htmlFor="responsavel">Responsável: </label>
         <Input 
           id="responsavel"
         />
