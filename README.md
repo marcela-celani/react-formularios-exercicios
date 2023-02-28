@@ -14,6 +14,7 @@ Para o exercício de hoje, vamos utilizar um template! Dentro desse template voc
 Para executar este exercício, você pode criar uma nova aplicação React ou usar este template do repositório.
 
 * Caso use este template, lembre-se de dar um `npm install` dentro da pasta raiz do projeto assim que baixar!
+* Caso prefira, pode fazer pelo [**Link do CodeSandBox**](https://codesandbox.io/s/react-formularios-exercicios-symj7p?file=/src/App.js)
 
 # Exercício 1
 Crie uma custom hook `useForm`
@@ -31,5 +32,4 @@ Todos os campos devem ser obrigatórios.
 
 
 ## Informações úteis sobre o assunto
-[**Link do CodeSandBox**](https://codesandbox.io/s/react-formularios-exercicios-symj7p?file=/src/App.js)
 
